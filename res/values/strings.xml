@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MarqueeTextView</string>
+    <!-- TextView -->
+    <string name="tv_1">我是一个MarqueeTextView我是一个MarqueeTextView我是一个MarqueeTextView我是一个MarqueeTextView我是一个MarqueeTextView我是一个MarqueeTextView</string>
+
+</resources>
